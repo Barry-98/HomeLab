@@ -9,21 +9,22 @@
 <br>
 <br>
 <br>
+<p>
 <strong>----Objective----</strong><br>
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.<br>
-<br>
-<p>
-<strong>----planned features----</strong><br>
-- Pihole DNS server for add blocking<br>
-- 5x Pi5 cluster hosting Proxmox<br>
-- NAS with 1TB SSD Raid 1 disk mirroring<br>
-- Wazuh SIEM<br>
-- 2x Layer 2 8 port gigabit switches with POE<br>
-- UPS 480W 230V 850VA<br>
-- RADIUS server to authorise devices and for user activity logging<br>
-<br>
--- **Possible future features** --<br>
-- VPN server for remote connection when away from home<br>
+
+
+<strong>----planned features----</strong>
+- Pihole DNS server for add blocking
+- 5x Pi5 cluster hosting Proxmox
+- NAS with 1TB SSD Raid 1 disk mirroring
+- Wazuh SIEM
+- 2x Layer 2 8 port gigabit switches with POE
+- UPS 480W 230V 850VA
+- RADIUS server to authorise devices and for user activity logging
+  
+<strong> ----Possible future features---- </strong>
+- VPN server for remote connection when away from home
 </p>
 <br>
 <br>
