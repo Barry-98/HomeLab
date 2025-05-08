@@ -41,9 +41,11 @@ you have been warned
 ##############################################################
 <br>
 Dev Log 1 - 08/05/2025 22:55
-<br>
+
+<p>
 The plan build a small server rack to have some fun with, this will be my first proper networking project outside of messing with my home router and connecting to a raspberry pi via SSH. I'm planning to use a DeskPi RackMate T1 which is a small 10 inch 8U mini server rack made for people in my situation who don't want a full 19 inch server rack.
-<br>
+</p>
+
 In this server rack I'm going to have a Raspberry Pi cluster so I can run some virtual machines on it and also some network access storage to store all the files for the VM's. I'm planning to power the whole thing with a small uninterrupted power supply to protect the hardware and a power over Ethernet switch to make it easier to power the whole thing (spoiler it doesn't). So my current internet access is a bit of a predicament as the accommodation I'm living in does not give me direct access to the router connected to the internet or the wireless access point I connect to, for the time being I probably wont be able to connect to the server from outside the network oh well.
 <br>
 The router I'm using is the GL.iNet GL-SFT1200 which is small travel router running of OpenWrt which is quite a popular open source router OS that can be installed on many devices and has tons of configuration options. I should also mention I have no Ethernet ports in my accommodation and can only connect via a wireless connection which is one of the reasons I chose this router as it can connect to other networks such as hotel Wi-Fi etc. I also need to put my devices MAC address in to access the internet the amount of devices I can connect and the speed I get depends on how much I pay, so this might be a bit tricky to get working but I have confidence and hours of free time.
