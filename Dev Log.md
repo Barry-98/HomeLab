@@ -1,11 +1,12 @@
-Author:JoshuaB99
+Author:JoshuaB99<br>
+
 08/05/2025
 <br>
-
+<br>
 <p>
 "Anyone who has never made a mistake has never tried anything new" :Albert Einstein
-
-
+<br>
+<br>
 Dev Log to document the progress for my mini Home Lab server rack project.
 </p>
 
