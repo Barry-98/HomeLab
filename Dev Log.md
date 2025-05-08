@@ -21,7 +21,7 @@ Create a small network environment where I can develop my networking skills and 
 - Wazuh SIEM
 - 2x Layer 2 8 port gigabit switches with POE
 - UPS 480W 230V 850VA
-- RADIUS server to authorise devices and for user activity logging
+- RADIUS server to authorise devices and for user activity logging<br>
   
 <strong> ----Possible future features---- </strong>
 - VPN server for remote connection when away from home
@@ -29,10 +29,8 @@ Create a small network environment where I can develop my networking skills and 
 <br>
 <br>
 <br>
-warning! ahead are the sleep deprived ramblings of someone pretending to be a network engineer
-<br>
-you have been warned
-<br>
+warning! ahead are the sleep deprived ramblings of someone pretending to be a network engineer<br>
+you have been warned<br>
 <br>
 <h4>Dev Log 1 - 08/05/2025 22:55</h4>
 <p>
