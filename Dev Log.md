@@ -13,7 +13,9 @@ Dev Log to document the progress for my mini Home Lab server rack project.
 <br>
 <br>
 -- Objective --
+<br>
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.
+<br>
 <br>
 ---- planned features ----
 - Pihole DNS server for add blocking
