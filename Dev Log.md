@@ -1,6 +1,6 @@
 >"Anyone who has never made a mistake has never tried anything new" :Albert Einstein<br>
 <br>
-# Dev Log
+<h1>Dev Log</h1>
 <p>
   This is to document the progress for my mini Home Lab server rack project.<br>
   Author:JoshuaB99<br>
@@ -33,8 +33,8 @@ warning! ahead are the sleep deprived ramblings of someone pretending to be a ne
 you have been warned
 <br>
 <br>
-# Dev Log 1 - 08/05/2025 22:55
-<br>
+<h2>Dev Log 1 - 08/05/2025 22:55</h2>
+
 <p>
   The plan build a small server rack to have some fun with, this will be my first proper networking project outside of messing with my home router and connecting to a raspberry pi via SSH.
   I'm planning to use a DeskPi RackMate T1 which is a small 10 inch 8U mini server rack made for people in my situation who don't want a full 19 inch server rack.
