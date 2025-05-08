@@ -7,7 +7,6 @@ Author:JoshuaB99<br>
 <br>
 <br>
 # Dev Log
-<br>
 to document the progress for my mini Home Lab server rack project.
 <br>
 <br>
@@ -41,10 +40,7 @@ warning! ahead are the sleep deprived ramblings of someone pretending to be a ne
 you have been warned
 <br>
 <br>
-##############################################################
-<br>
-Dev Log 1 - 08/05/2025 22:55
-<br>
+# Dev Log 1 - 08/05/2025 22:55
 <br>
 <p>
   The plan build a small server rack to have some fun with, this will be my first proper networking project outside of messing with my home router and connecting to a raspberry pi via SSH.
