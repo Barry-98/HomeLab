@@ -10,7 +10,7 @@
 <br>
 <br>
 <p>
-<h3>----Objective----</h3><br>
+<h3>----Objective----</h3>
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.<br>
 <br>
 <h3>----planned features----</h3>
