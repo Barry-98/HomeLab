@@ -10,11 +10,11 @@
 <br>
 <br>
 <p>
-<strong>----Objective----</strong><br>
+<h3>----Objective----</h3><br>
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.<br>
 
 
-<strong>----planned features----</strong>
+<h3>----planned features----</h3>
 - Pihole DNS server for add blocking
 - 5x Pi5 cluster hosting Proxmox
 - NAS with 1TB SSD Raid 1 disk mirroring
@@ -23,7 +23,7 @@ Create a small network environment where I can develop my networking skills and 
 - UPS 480W 230V 850VA
 - RADIUS server to authorise devices and for user activity logging<br>
   
-<strong> ----Possible future features---- </strong>
+<h3> ----Possible future features---- </h3>
 - VPN server for remote connection when away from home
 </p>
 <br>
@@ -60,7 +60,7 @@ you have been warned<br>
   getting the full speed I am paying for.
 </p>
 <br>
-<h4>Dev Log 2 - 09/05/2025 ##:##</h4>
+<h2>Dev Log 2 - 09/05/2025 ##:##</h2>
 <br>
 <br>
 <p>
