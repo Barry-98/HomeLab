@@ -44,6 +44,7 @@ you have been warned
 Dev Log 1 - 08/05/2025 22:55
 </p>
 <br>
+<br>
 <p>
 The plan build a small server rack to have some fun with, this will be my first proper networking project outside of messing with my home router and connecting to a raspberry pi via SSH. I'm planning to use a DeskPi RackMate T1 which is a small 10 inch 8U mini server rack made for people in my situation who don't want a full 19 inch server rack.
 </p>
