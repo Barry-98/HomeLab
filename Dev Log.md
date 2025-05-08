@@ -9,11 +9,11 @@
 <br>
 <br>
 <br>
-**_- Objective --**<br>
+-- **Objective** --<br>
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.<br>
 <br>
 <p>
-**---- planned features ----**<br>
+---- **planned features** ----<br>
 - Pihole DNS server for add blocking<br>
 - 5x Pi5 cluster hosting Proxmox<br>
 - NAS with 1TB SSD Raid 1 disk mirroring<br>
@@ -22,7 +22,7 @@ Create a small network environment where I can develop my networking skills and 
 - UPS 480W 230V 850VA<br>
 - RADIUS server to authorise devices and for user activity logging<br>
 <br>
-**-- Possible future features --**<br>
+-- **Possible future features** --<br>
 - VPN server for remote connection when away from home<br>
 </p>
 <br>
