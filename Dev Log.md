@@ -33,13 +33,11 @@ warning! ahead are the sleep deprived ramblings of someone pretending to be a ne
 you have been warned
 <br>
 <br>
-<h2>Dev Log 1 - 08/05/2025 22:55</h2>
-
+<h4>Dev Log 1 - 08/05/2025 22:55</h4>
 <p>
   The plan build a small server rack to have some fun with, this will be my first proper networking project outside of messing with my home router and connecting to a raspberry pi via SSH.
   I'm planning to use a DeskPi RackMate T1 which is a small 10 inch 8U mini server rack made for people in my situation who don't want a full 19 inch server rack.
-</p>
-<p>
+  
   In this server rack I'm going to have a Raspberry Pi cluster so I can run some virtual machines on it and also some network access storage to store all the files for the VM's. I'm
   planning to power the whole thing with a small uninterrupted power supply to protect the hardware and a power over Ethernet switch to make it easier to power the whole thing (spoiler it
   doesn't). So my current internet access is a bit of a predicament as the accommodation I'm living in does not give me direct access to the router connected to the internet or the wireless
@@ -66,9 +64,7 @@ you have been warned
   getting the full speed I am paying for.
 </p>
 <br>
-##############################################################
-<br>
-Dev Log 2 - 09/05/2025 ##:##
+<h4>Dev Log 2 - 09/05/2025 ##:##</h4>
 <br>
 <br>
 <p>
