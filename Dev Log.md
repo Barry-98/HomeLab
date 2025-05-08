@@ -6,7 +6,8 @@ Author:JoshuaB99<br>
 "Anyone who has never made a mistake has never tried anything new" :Albert Einstein
 <br>
 <br>
-Dev Log to document the progress for my mini Home Lab server rack project.
+#Dev Log 
+to document the progress for my mini Home Lab server rack project.
 <br>
 <br>
 <br>
