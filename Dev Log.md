@@ -27,6 +27,7 @@ Create a small network environment where I can develop my networking skills and 
 - RADIUS server to authorise devices and for user activity logging
 <br>
 -- Possible future features --
+  <br>
 - VPN server for remote connection when away from home
 <br>
 <br>
