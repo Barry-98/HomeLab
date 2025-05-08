@@ -33,7 +33,6 @@ Create a small network environment where I can develop my networking skills and 
 <br>
 <br>
 <br>
-<br>
 warning! ahead are the sleep deprived ramblings of someone pretending to be a network engineer
 <br>
 you have been warned
@@ -43,7 +42,7 @@ you have been warned
 <br>
 <br>
 Dev Log 1 - 08/05/2025 22:55
-
+<br>
 <p>
 The plan build a small server rack to have some fun with, this will be my first proper networking project outside of messing with my home router and connecting to a raspberry pi via SSH. I'm planning to use a DeskPi RackMate T1 which is a small 10 inch 8U mini server rack made for people in my situation who don't want a full 19 inch server rack.
 </p>
@@ -62,5 +61,6 @@ The router has a feature to connect to a VPN for added security using this featu
 <br>
 ##############################################################
 <br>
+<p>
 Dev Log 2 - 09/05/2025 ##:##
-
+</p>
