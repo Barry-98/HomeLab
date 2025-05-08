@@ -9,11 +9,11 @@
 <br>
 <br>
 <br>
- **Objective**<br>
+<strong>----Objective----</strong><br>
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.<br>
 <br>
 <p>
-#### planned features<br>
+<strong>----planned features----</strong><br>
 - Pihole DNS server for add blocking<br>
 - 5x Pi5 cluster hosting Proxmox<br>
 - NAS with 1TB SSD Raid 1 disk mirroring<br>
