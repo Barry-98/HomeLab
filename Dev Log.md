@@ -4,12 +4,11 @@
 # Dev Log
 <p>
   This is to document the progress for my mini Home Lab server rack project.
+  <br>
   Author:JoshuaB99
+  <br>
   08/05/2025
 </p>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
