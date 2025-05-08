@@ -9,7 +9,7 @@
 <br>
 <br>
 <br>
--- **Objective** --<br>
+ **Objective**<br>
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.<br>
 <br>
 <p>
