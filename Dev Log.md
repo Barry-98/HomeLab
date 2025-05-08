@@ -1,17 +1,17 @@
 Author:JoshuaB99<br>
-
+<br>
 08/05/2025
 <br>
 <br>
-<p>
+<br>
 "Anyone who has never made a mistake has never tried anything new" :Albert Einstein
 <br>
 <br>
 Dev Log to document the progress for my mini Home Lab server rack project.
-</p>
-
-
-
+<br>
+<br>
+<br>
+<br>
 -- Objective --
 Create a small network environment where I can develop my networking skills and host VMs for various projects and game servers.
 
