@@ -34,7 +34,7 @@ warning! ahead are the sleep deprived ramblings of someone pretending to be a ne
 
 you have been warned
 
-#############################################################################################################################################
+####################################################################################################################
 
 Dev Log 1 - 08/05/2025 22:55
 
@@ -49,7 +49,7 @@ Got the router connected to the internet and got it working by cloning my laptop
 The router has a feature to connect to a VPN for added security using this feature I can hide the network traffic from my ISP so they cannot tell how many devices are connected to the internet this works and the devices connected to the router get internet access finally, However I am only getting a connection speed of around 50mbs this will not do! I am paying for more and would like to use all of it.(note the max I can get is like 250mbs) Turns out the reason is the hardware in the router it self, the VPN I'm using uses wire guard which is the fastest VPN protocol available but the router has a max speed of 65mbs even with wire guard and 10mbs with open VPN protocol. I have decided I'm going to send the router back and upgrade it to the GL.iNet GL-AXT1800 which has a max speed of 550mbs on wire guard VPN clients and has a few more features in general but it was twice the cost of the first router. Success I am getting the full speed I am paying for.
 
 
-#############################################################################################################################################
+####################################################################################################################
 
 Dev Log 2 - 09/05/2025 ##:##
 
