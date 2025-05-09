@@ -60,10 +60,18 @@ you have been warned<br>
   getting the full speed I am paying for.
 </p>
 <br>
-<h2>Dev Log 2 - 09/05/2025 16:14</h2>
+<h2>Dev Log 2 - 09/05/2025 13:01</h2>
 <p>
   Now that I have the router working I have been looking at what switch to use for the rack. After looking at like 40 different switches that would be small enough to fit in the rack that
   are layer 2 and support VLANs, POE and all the other features I want I have settled on the TP-Link TL-SG1016PE which is a 16 port gigabit POE layer 2 switch it has more than enough power
   to support the devices I plan to use and with 16 ports I should have enough for everything and spare. Only 8 of the ports on the switch actually support POE but that's more than I need
   anyway so it should not be a problem.
+</p>
+<br>
+<h2>Dev Log 3 - 09/05/2025 16:24</h2>
+<p>
+  Ok so after attempting to make a 3D model of the server rack in freeCAD I found that the switch will not fit in the rack which is very inconvenient. Also after further searching (lots of
+  searching) it seems that most 16 port managed switches wont fit in the 10 inch rack which is very annoying, After weighing up my options Iv decided to go with 2 8 port managed switches.
+  the switch ill be using is the NetGear GS308EP it supports POE and is a managed switch so it does VLANs and all the other features I want to setup on the network, Ill be using 2 of these
+  to connect and power the network.
 </p>
