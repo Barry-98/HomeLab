@@ -3,7 +3,7 @@
 <h1>Dev Log</h1>
 <p>
   This is to document the progress for my mini Home Lab server rack project.<br>
-  Author:JoshuaB99<br>
+  Author:Barry-98<br>
   08/05/2025
 </p>
 <br>
