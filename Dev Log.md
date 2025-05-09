@@ -29,7 +29,7 @@ Create a small network environment where I can develop my networking skills and 
 <br>
 <br>
 <br>
-warning! ahead are the sleep deprived ramblings of someone pretending to be a network engineer<br>
+warning! ahead are the sleep deprived ramblings of someone attempting to be a network engineer<br>
 you have been warned<br>
 <br>
 <h2>Dev Log 1 - 08/05/2025 22:55</h2>
