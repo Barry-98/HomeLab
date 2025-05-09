@@ -60,9 +60,7 @@ you have been warned<br>
   getting the full speed I am paying for.
 </p>
 <br>
-<h2>Dev Log 2 - 09/05/2025 ##:##</h2>
-<br>
-<br>
+<h2>Dev Log 2 - 09/05/2025 16:14</h2>
 <p>
   Now that I have the router working I have been looking at what switch to use for the rack. After looking at like 40 different switches that would be small enough to fit in the rack that
   are layer 2 and support VLANs, POE and all the other features I want I have settled on the TP-Link TL-SG1016PE which is a 16 port gigabit POE layer 2 switch it has more than enough power
