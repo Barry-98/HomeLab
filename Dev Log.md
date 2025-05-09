@@ -15,7 +15,7 @@ Create a small network environment where I can develop my networking skills and 
 <br>
 <h3>----planned features----</h3>
   <ul>
-    <li>Pihole DNS server for add blocking</li>
+- [x]Pihole DNS server for add blocking</li>
     <li>5x Pi5 cluster hosting Proxmox</li>
     <li>NAS with 1TB SSD Raid 1 disk mirroring</li>
     <li>Wazuh SIEM</li>
